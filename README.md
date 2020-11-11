@@ -1,3 +1,6 @@
+# Forked coco-to-yolo-by-category
+I refactored the script and made it more interactive.
+
 # coco-to-yolo-by-category
 Downloads COCO dataset images by category, converts COCO annotations to YOLO format and writes .txt files
 
@@ -8,4 +11,3 @@ requests `pip3 install requests`
 
 ## To run: 
 `python3 coco-to-yolo-by-category.py`
-
